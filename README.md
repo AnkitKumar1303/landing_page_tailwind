@@ -2,7 +2,7 @@
 
 Github Link: https://github.com/AnkitKumar1303/landing_page_tailwind
 
-Hosted Link: https://ankitkumar1303.github.io/landing_page_tailwind/
+Hosted Link: https://ankitkumar1303.github.io/landing_page_tailwind/dist/index.html
 
 
 Screenshot:
